@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MyButton /> Renders 1`] = `
+<View
+  accessibilityRole="button"
+>
+  <Text>
+    Hello
+  </Text>
+</View>
+`;
